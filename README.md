@@ -4,13 +4,13 @@ I’m Guillermo Bonilla — a trilingual data scientist, linguist, and educator 
 
 ## 🎓 Education
 - **M.A. in Linguistics — Florida International University**  
-  Focus on Japanese proficiency, heritage bilingualism, and trilingualism; includes study abroad at Ritsumeikan University (Kyoto).
+  Focus on Japanese proficiency, English-Spanish heritage bilingualism, and trilingualism with a thesis; includes study abroad at Ritsumeikan University (Kyoto).
 - **B.A. in Asian Studies — Florida International University**  
   Minors in Mathematics & Mathematical Sciences; Certificate in Japanese Studies.
 - **Applied AI & Data Science Program — MIT Professional Education** *(Anticipated Apr 2026)*  
   Hands‑on experience with Python modeling, applied AI workflows, and feature‑importance analysis.
 - **Data Analyst II Technical Certificate — Broward College**  
-  4.0 GPA across coursework in Excel Data Analysis, Database Management, Statistics, Discrete Math, Intro to Programming (Python), Advanced Excel Data Visualization, and Analyzing and Visualizing Data with Power BI.
+  Coursework in Excel Data Analysis, Database Management, Statistics, Discrete Math, Intro to Programming (Python), Advanced Excel Data Visualization, and Analyzing and Visualizing Data with Power BI.
 
 ## 🧠 Interests and Focus Areas
 - 🤖 Machine Learning and Applied AI  
@@ -21,6 +21,11 @@ I’m Guillermo Bonilla — a trilingual data scientist, linguist, and educator 
 - ✍️ Clear, accessible technical storytelling  
 - 🌐 Cross‑cultural and language‑aware model design  
 
+## 🔬 Research Experience
+### ⚡ Florida Power & Light (FPL) – Broward College  
+Developed statistical models 📈 analyzing environmental impacts on electrical demand and net generation for FPL stakeholders 🏢.
+### 🗣️ FIU Linguistic Annotation Research  
+Created narrative‑boundary annotations ✍️ supporting NLP text segmentation and discourse‑analysis models 🤖 funded by the Office of Naval Research ⚓.
 
 
 **gbonilla712/gbonilla712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
