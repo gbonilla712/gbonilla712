@@ -30,5 +30,5 @@ Created narrative‑boundary annotations ✍️ supporting NLP text segmentation
 🤝I am looking to collaborate with others interested in Data Science who are willing to learn and grow in this field.
 
 ## 📫 Contact
--LinkedIn: https://www.linkedin.com/in/guillermo-d-bonilla-m-a-13330680/
--Email: gbonilla712@outlook.com
+- LinkedIn: https://www.linkedin.com/in/guillermo-d-bonilla-m-a-13330680/
+- Email: gbonilla712@outlook.com
