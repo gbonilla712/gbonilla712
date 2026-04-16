@@ -1,7 +1,7 @@
 ## About Me 👋
-
 I’m Guillermo Bonilla — a trilingual data scientist, linguist, and educator based in Pembroke Pines, FL. My work sits at the intersection of machine learning, language, and education, where I focus on building clear, interpretable, and human‑centered analytics. I enjoy transforming complex datasets into actionable insights, designing transparent ML workflows, and communicating technical findings in English, Spanish, and Japanese for diverse audiences.
 
+---
 ## 🎓 Education
 - **M.A. in Linguistics — Florida International University**  
 Focus on Japanese proficiency, English-Spanish heritage bilingualism, and trilingualism with a Master's thesis; includes study abroad at Ritsumeikan University (Kyoto).
@@ -11,6 +11,7 @@ Focus on Japanese proficiency, English-Spanish heritage bilingualism, and trilin
   Hands‑on experience with Python modeling, applied AI workflows, and feature‑importance analysis.
 - **Data Analyst II Technical Certificate — Broward College**  
   Coursework in Excel Data Analysis, Database Management, Statistics, Discrete Math, Intro to Programming (Python), Advanced Excel Data Visualization, and Analyzing and Visualizing Data with Power BI.
+---
 
 ## 🧠 Interests and Focus Areas
 - 🤖 Machine Learning and Applied AI  
@@ -20,15 +21,19 @@ Focus on Japanese proficiency, English-Spanish heritage bilingualism, and trilin
 - 🎓 Educational analytics and multilingual communication  
 - ✍️ Clear, accessible technical storytelling  
 - 🌐 Cross‑cultural and language‑aware model design  
+---
 
 ## 🔬 Research Experience
 - **⚡ Florida Power & Light (FPL) – Broward College** 
 Developed statistical models 📈 analyzing environmental impacts on electrical demand and net generation for FPL stakeholders 🏢.
 - **🗣️ FIU Linguistic Annotation Research**
 Created narrative‑boundary annotations ✍️ supporting NLP text segmentation and discourse‑analysis models 🤖 funded by the Office of Naval Research ⚓.
+---
 
-🤝I am looking to collaborate with others interested in Data Science who are willing to learn and grow in this field.
+## 🤝 Collaboration
+I am looking to collaborate with others interested in Data Science who are willing to learn and grow in this field.
 
+---
 ## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/guillermo-d-bonilla-m-a-13330680/
-- Email: gbonilla712@outlook.com
+**LinkedIn:** https://www.linkedin.com/in/guillermo-d-bonilla-m-a-13330680/
+**Email:** gbonilla712@outlook.com
