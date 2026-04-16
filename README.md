@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<!--
+< I’m Guillermo Bonilla — a trilingual data scientist, linguist, and educator based in Pembroke Pines, FL. My work sits at the intersection of machine learning, language, and education, where I focus on building clear, interpretable, and human‑centered analytics. I enjoy transforming complex datasets into actionable insights, designing transparent ML workflows, and communicating technical findings in English, Spanish, and Japanese for diverse audiences.
+
 **gbonilla712/gbonilla712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
