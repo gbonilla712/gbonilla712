@@ -4,7 +4,7 @@ I’m Guillermo Bonilla — a trilingual data scientist, linguist, and educator 
 
 ## 🎓 Education
 - **M.A. in Linguistics — Florida International University**  
-  Focus on Japanese proficiency, English-Spanish heritage bilingualism, and trilingualism with a thesis; includes study abroad at Ritsumeikan University (Kyoto).
+Focus on Japanese proficiency, English-Spanish heritage bilingualism, and trilingualism with a Master's thesis; includes study abroad at Ritsumeikan University (Kyoto).
 - **B.A. in Asian Studies — Florida International University**  
   Minors in Mathematics & Mathematical Sciences; Certificate in Japanese Studies.
 - **Applied AI & Data Science Program — MIT Professional Education** *(Anticipated Apr 2026)*  
@@ -22,9 +22,9 @@ I’m Guillermo Bonilla — a trilingual data scientist, linguist, and educator 
 - 🌐 Cross‑cultural and language‑aware model design  
 
 ## 🔬 Research Experience
-### ⚡ Florida Power & Light (FPL) – Broward College  
+- **⚡ Florida Power & Light (FPL) – Broward College** 
 Developed statistical models 📈 analyzing environmental impacts on electrical demand and net generation for FPL stakeholders 🏢.
-### 🗣️ FIU Linguistic Annotation Research  
+- **🗣️ FIU Linguistic Annotation Research**
 Created narrative‑boundary annotations ✍️ supporting NLP text segmentation and discourse‑analysis models 🤖 funded by the Office of Naval Research ⚓.
 
 
