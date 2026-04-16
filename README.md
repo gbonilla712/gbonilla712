@@ -9,13 +9,14 @@ Alongside this, I pursued a Data Analyst II Technical Certificate at Broward Col
 I also hold a Master of Arts in Linguistics from Florida International University, where my thesis explored Japanese proficiency, English-Spanish heritage bilingualism, and trilingualism. I also hold a Bachelor of Arts in Asian Studies with minors in Mathematics and Mathematical Sciences, as well as a certificate in Japanese Studies. My academic journey includes intensive Japanese language study at Ritsumeikan University in Kyoto.
 
 ## 🧠 Interests and Focus Areas
-🤖 Machine Learning and Applied AI
-🗣️ Natural Language Processing and Linguistic Data
-📊 Data Visualization (Excel, Power BI)
-🐍 SQL-based analytics and Python workflows
-🎓 Educational analytics and multilingual communication
-✍️ Clear, accessible technical storytelling
-🌐 Cross-cultural and language-aware model design
+- 🤖 Machine Learning & Applied AI  
+- 🗣️ Natural Language Processing & Linguistic Data  
+- 📊 Data Visualization (Excel, Power BI)  
+- 🐍 SQL‑based analytics and Python workflows  
+- 🎓 Educational analytics and multilingual communication  
+- ✍️ Clear, accessible technical storytelling  
+- 🌐 Cross‑cultural and language‑aware model design  
+
 
 
 **gbonilla712/gbonilla712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
