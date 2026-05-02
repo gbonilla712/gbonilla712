@@ -7,6 +7,7 @@ I’m Guillermo Bonilla — a trilingual data scientist, linguist, and educator 
 Focus on Japanese proficiency, English-Spanish heritage bilingualism, and trilingualism with a Master's thesis; includes study abroad at Ritsumeikan University (Kyoto).
 - **B.A. in Asian Studies — Florida International University**  
   Minors in Mathematics & Mathematical Sciences; Certificate in Japanese Studies.
+- Study Abroad: Ritsumeikan University (Kyoto, Japan) — intensive Japanese language and cultural immersion
 - **Applied AI & Data Science Program — MIT Professional Education** *(Anticipated Apr 2026)*  
   Hands‑on experience with Python modeling, applied AI workflows, and feature‑importance analysis.
 - **Data Analyst II Technical Certificate — Broward College**  
@@ -35,5 +36,5 @@ I am looking to collaborate with others interested in Data Science who are willi
 
 ---
 ## 📫 Contact
-**LinkedIn:** https://www.linkedin.com/in/guillermo-d-bonilla-m-a-13330680/
+**LinkedIn:** https://www.linkedin.com/in/guillermo-d-bonilla-m-a-13330680
 **Email:** gbonilla712@outlook.com
