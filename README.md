@@ -4,7 +4,7 @@ I’m Guillermo Bonilla — a trilingual data scientist, linguist, and educator 
 ---
 ## 🎓 Education
 - **M.A. in Linguistics — Florida International University**  
-Focus on Japanese proficiency, English-Spanish heritage bilingualism, and trilingualism with a Master's thesis; includes study abroad at Ritsumeikan University (Kyoto).
+Focus on Japanese proficiency, English-Spanish heritage bilingualism, and trilingualism with a Master's thesis.
 - **B.A. in Asian Studies — Florida International University**  
   Minors in Mathematics & Mathematical Sciences; Certificate in Japanese Studies.
 - Study Abroad: Ritsumeikan University (Kyoto, Japan) — intensive Japanese language and cultural immersion
