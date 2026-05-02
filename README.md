@@ -8,7 +8,7 @@ Focus on Japanese proficiency, English-Spanish heritage bilingualism, and trilin
 - **B.A. in Asian Studies — Florida International University**  
   Minors in Mathematics & Mathematical Sciences; Certificate in Japanese Studies.
 - Study Abroad: Ritsumeikan University (Kyoto, Japan) — intensive Japanese language and cultural immersion
-- **Applied AI & Data Science Program — MIT Professional Education** *(Anticipated Apr 2026)*  
+- **Applied AI & Data Science Program — MIT Professional Education** 
   Hands‑on experience with Python modeling, applied AI workflows, and feature‑importance analysis.
 - **Data Analyst II Technical Certificate — Broward College**  
   Coursework in Excel Data Analysis, Database Management, Statistics, Discrete Math, Intro to Programming (Python), Advanced Excel Data Visualization, and Analyzing and Visualizing Data with Power BI.
