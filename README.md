@@ -28,7 +28,7 @@ Hands‑on experience with Python modeling, applied AI workflows, and feature‑
 ## 🔬 Research Experience
 - **⚡ Florida Power & Light (FPL) – Broward College** 
 Developed statistical models 📈 analyzing environmental impacts on electrical demand and net generation for FPL stakeholders 🏢.
-- **🗣️ FIU Linguistic Annotation Research**
+- **🗣️ Florida International University (FIU) Linguistic Annotation Research**
 Created narrative‑boundary annotations ✍️ supporting NLP text segmentation and discourse‑analysis models 🤖 funded by the Office of Naval Research ⚓.
 ---
 
